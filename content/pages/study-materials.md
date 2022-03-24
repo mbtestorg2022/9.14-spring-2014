@@ -10,7 +10,7 @@ The following resources are provided as review materials for the midterm or fina
 
 [Midterm Reivew Student Questions 2008 (PDF)]({{< baseurl >}}/resources/mit9_14s14_midtrmreque2008)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 17 (PDF - 1.1MB)]({{< baseurl >}}/resources/mit9_14s14_cnsdrawings) []({{< baseurl >}}/resources/mit9_14s14_finalrevque2010) 
+[Lecture 17 (PDF - 1.1MB)]({{< baseurl >}}/resources/mit9_14s14_cnsdrawings) []({{< baseurl >}}/resources/mit9_14s14_finalrevque2010) 
 
 [Lecture 31 Review (PDF - 1.4MB)]({{< baseurl >}}/resources/mit9_14s14_lec31_review)
 
