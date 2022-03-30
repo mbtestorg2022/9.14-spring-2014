@@ -4,6 +4,7 @@ description: This file contains the information regarding thalamocortical organi
   transcortical connections and association cortex; thalamic evolution notes
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/9-14-brain-structure-and-its-origins-spring-2014/9792678fad0e07efe93e1ae21e2e1a2e_MIT9_14S14_Lecture37.pdf
 file_type: application/pdf
+parent_uid: 19224a13-4dc2-853c-831d-7eaf353e57f2
 resourcetype: Document
 title: '9.14 Lecture 37: Thalamocortical Organization; Transcortical Connections and
   Association Cortex; Thalamic Evolution Notes'

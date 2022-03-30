@@ -4,6 +4,7 @@ description: This file contains the information regarding limbic forebrain and a
   notes.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/9-14-brain-structure-and-its-origins-spring-2014/4889496916869851c13059aaaeca9256_MIT9_14S14_Lecture32.pdf
 file_type: application/pdf
+parent_uid: 19224a13-4dc2-853c-831d-7eaf353e57f2
 resourcetype: Document
 title: '9.14 Lecture 32: Limbic forebrain and amygdala Notes'
 uid: 48894969-1686-9851-c130-59aaaeca9256
